@@ -62,5 +62,5 @@ Hasil ditampilkan dengan 2 desimal
 # Lisensi 
 Program ini dirilis di bawah lisensi MIT. Anda bebas menggunakan, mengubah, dan mendistribusikan program ini sesuai kebutuhan.
 
-# author 
+# Author 
 DIRA ROHMAENI 312410465
