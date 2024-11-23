@@ -15,7 +15,7 @@ Lihat Data: Menampilkan daftar semua data nilai mahasiswa. Tambah Data: Menambah
 Data disimpan dalam bentuk dictionary dengan format sebagai berikut: { 'NIM': { 'nama': 'Nama Mahasiswa', 'tugas': nilai_tugas, 'uts': nilai_uts, 'uas': nilai_uas } }
 
 
-#Cara Menggunakan
+# Cara Menggunakan
 
 1. Menjalankan Program: Jalankan program dengan interpreter Python.
 2. Menu Utama: Setelah program berjalan, menu utama akan ditampilkan. Pilihan yang tersedia adalah: 
