@@ -1,6 +1,8 @@
-#Program Input Nilai Mahasiswa Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan struktur data Dictionary.
+#Program 
+Input Nilai Mahasiswa Program sederhana untuk mengelola data nilai mahasiswa menggunakan Python dengan struktur data Dictionary.
 
-#Deskripsi Program ini adalah aplikasi berbasis teks untuk mengelola data nilai mahasiswa. Pengguna dapat menambah, mengubah, menghapus, melihat, dan mencari data nilai mahasiswa dengan menggunakan NIM (Nomor Induk Mahasiswa) sebagai identifikasi.
+#Deskripsi 
+Program ini adalah aplikasi berbasis teks untuk mengelola data nilai mahasiswa. Pengguna dapat menambah, mengubah, menghapus, melihat, dan mencari data nilai mahasiswa dengan menggunakan NIM (Nomor Induk Mahasiswa) sebagai identifikasi.
 
 #Fitur Lihat Data: Menampilkan daftar semua data nilai mahasiswa. Tambah Data: Menambahkan data nilai mahasiswa baru. Ubah Data: Mengubah data nilai mahasiswa yang sudah ada. Hapus Data: Menghapus data nilai mahasiswa berdasarkan NIM. Cari Data: Mencari dan menampilkan data nilai mahasiswa berdasarkan NIM.
 
